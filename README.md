@@ -1,6 +1,6 @@
-## 🎯 Quiz App using JavaScript
+## 🎯 Quiz using JavaScript
 
-This is a simple and interactive Quiz App built using HTML, CSS, and JavaScript. 
+This is a simple and interactive Quiz built using HTML, CSS, and JavaScript. 
 It features a multiple-choice question format, real-time scoring, a countdown timer, and a user-friendly UI with animations.
 
 
@@ -17,11 +17,12 @@ It features a multiple-choice question format, real-time scoring, a countdown ti
 
 ## 📁 Project Structure
 
-/QuizApp/
+```
+/QuizMain/
 │
 ├── index.html       # Main HTML file
 ├── style.css        # Styling file
 ├── script.js        # Quiz logic and interactions
 └── README.md        # Project information
-
+```
 
