@@ -49,6 +49,16 @@ It features a multiple-choice question format, real-time scoring, a countdown ti
 
 
 
+## 🙏 Thank You!
+
+Thank you for checking out this project!  
+If you found it helpful or fun, consider giving it a ⭐ on GitHub and sharing it with others.  
+Happy Coding! 💻🚀
+
+---
+Happy quizzing! 🎉
+---
+
 
 
 
