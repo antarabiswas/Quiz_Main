@@ -36,3 +36,13 @@ It features a multiple-choice question format, real-time scoring, a countdown ti
 - **JavaScript** - Logic and interactivity  
 
 ---
+
+
+---
+
+## ⏱️ Timer Behavior
+
+- Each question has a 15-second countdown.
+- If time runs out, the user will be prompted to replay the quiz.
+
+---
