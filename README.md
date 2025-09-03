@@ -26,3 +26,13 @@ It features a multiple-choice question format, real-time scoring, a countdown ti
 └── README.md        # Project information
 ```
 
+
+---
+
+## 🛠️ Tech Stack
+
+- **HTML** - Structure  
+- **CSS** - Styling and animations  
+- **JavaScript** - Logic and interactivity  
+
+---
