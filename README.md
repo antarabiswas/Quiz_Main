@@ -42,7 +42,14 @@ It features a multiple-choice question format, real-time scoring, a countdown ti
 
 ## ⏱️ Timer Behavior
 
-- Each question has a 15-second countdown.
+- Each question has a 10-second countdown.
 - If time runs out, the user will be prompted to replay the quiz.
 
 ---
+
+
+
+
+
+
+
