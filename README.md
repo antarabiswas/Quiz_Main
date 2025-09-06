@@ -7,8 +7,6 @@ It features a multiple-choice question format, real-time scoring, a countdown ti
 ## 🚀 Features
 
 - ✅ Interactive quiz with multiple-choice questions
-
-- 
 - ⏱️ Timer countdown for each question (10 seconds)  
 - 🧠 Real-time score tracking  
 - ⚠️ Alerts for correct/wrong answers  
